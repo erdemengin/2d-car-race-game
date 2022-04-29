@@ -1,0 +1,10 @@
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.exe.config
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.exe
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.Form1.resources
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.Properties.Resources.resources
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.GenerateResource.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.exe
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.pdb
